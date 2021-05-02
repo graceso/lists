@@ -1,2 +1,1 @@
-# lists
-lists 📝
+# lists 📝
